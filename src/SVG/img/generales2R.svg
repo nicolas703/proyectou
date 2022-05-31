@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="237.852" height="470.652" viewBox="0 0 237.852 470.652">
+  <g id="Grupo_2432" data-name="Grupo 2432" transform="translate(-72.781 -2503.348)">
+    <g id="Grupo_2381" data-name="Grupo 2381" transform="translate(-0.367 984)">
+      <line id="Línea_508" data-name="Línea 508" x2="62" transform="translate(89.367 1982.235)" fill="none" stroke="#ff7043" stroke-linecap="square" stroke-width="3" stroke-dasharray="6 8"/>
+      <g id="Trazado_2768" data-name="Trazado 2768" transform="translate(128 1930)" fill="#333" style="mix-blend-mode: multiply;isolation: isolate">
+        <path d="M 15 28.5 C 11.39402008056641 28.5 8.003870010375977 27.09575080871582 5.454060077667236 24.54594039916992 C 2.904249906539917 21.99612998962402 1.5 18.60597991943359 1.5 15 C 1.5 11.39402008056641 2.904249906539917 8.003870010375977 5.454060077667236 5.454060077667236 C 8.003870010375977 2.904249906539917 11.39402008056641 1.5 15 1.5 C 18.60597991943359 1.5 21.99612998962402 2.904249906539917 24.54594039916992 5.454060077667236 C 27.09575080871582 8.003870010375977 28.5 11.39402008056641 28.5 15 C 28.5 18.60597991943359 27.09575080871582 21.99612998962402 24.54594039916992 24.54594039916992 C 21.99612998962402 27.09575080871582 18.60597991943359 28.5 15 28.5 Z" stroke="none"/>
+        <path d="M 15 3 C 11.79467964172363 3 8.781219482421875 4.248220443725586 6.514720916748047 6.514720916748047 C 4.248220443725586 8.781219482421875 3 11.79467964172363 3 15 C 3 18.20532035827637 4.248220443725586 21.21878051757813 6.514720916748047 23.48527908325195 C 8.781219482421875 25.75177955627441 11.79467964172363 27 15 27 C 18.20532035827637 27 21.21878051757813 25.75177955627441 23.48527908325195 23.48527908325195 C 25.75177955627441 21.21878051757813 27 18.20532035827637 27 15 C 27 11.79467964172363 25.75177955627441 8.781219482421875 23.48527908325195 6.514720916748047 C 21.21878051757813 4.248220443725586 18.20532035827637 3 15 3 M 15 0 C 23.28426933288574 0 30 6.715730667114258 30 15 C 30 23.28426933288574 23.28426933288574 30 15 30 C 6.715730667114258 30 0 23.28426933288574 0 15 C 0 6.715730667114258 6.715730667114258 0 15 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <text id="Promedio_por_categoría" data-name="Promedio por categoría" transform="translate(164 1986)" fill="#aaa" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Promedio por categoría</tspan></text>
+      <text id="Servicios_públicos" data-name="Servicios públicos" transform="translate(164 1950)" fill="#aaa" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Servicios públicos</tspan></text>
+    </g>
+    <g id="Grupo_2378" data-name="Grupo 2378" transform="translate(18104.301 -1529.012)">
+      <path id="Trazado_2879" data-name="Trazado 2879" d="M45.5,179.5H199.793" transform="translate(-18010.695 3995.231)" fill="none" stroke="#989898" stroke-miterlimit="10" stroke-width="1"/>
+      <text id="_24_6" data-name="24,6" transform="translate(-17875.305 4226.923)" fill="#ff7043" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="22">24,6</tspan></text>
+      <text id="_100" data-name="100" transform="translate(-18013.943 4032.5)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="7.548" y="19">100</tspan></text>
+      <text id="_75" data-name="75" transform="translate(-18013.943 4100.869)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="17.901" y="19">75</tspan></text>
+      <text id="_50_" data-name="50
+" transform="translate(-18013.943 4171.419)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="17.901" y="19">50</tspan></text>
+      <text id="_25" data-name="25" transform="translate(-18013.943 4241.968)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="17.901" y="19">25</tspan></text>
+      <text id="_0" data-name="0" transform="translate(-18013.943 4307.183)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="28.255" y="19">0</tspan></text>
+      <path id="Trazado_2873" data-name="Trazado 2873" d="M45.5,332.5H199.793" transform="translate(-18010.695 3980.86)" fill="none" stroke="#717171" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Trazado_2876" data-name="Trazado 2876" d="M45.5,255.5H199.793" transform="translate(-18010.695 3988.093)" fill="none" stroke="#989898" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_2880" data-name="Trazado 2880" d="M45.5,102.5H199.793" transform="translate(-18010.695 4002.464)" fill="none" stroke="#989898" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Grupo_2305" data-name="Grupo 2305" transform="translate(-17898.297 4288.547)">
+        <path id="Trazado_2808" data-name="Trazado 2808" d="M320,312.363a7.249,7.249,0,1,1-7.249-7.249A7.248,7.248,0,0,1,320,312.363Z" transform="translate(-305.5 -305.115)" fill="#333"/>
+      </g>
+      <g id="Grupo_2306" data-name="Grupo 2306" transform="translate(-17898.297 4284.655)">
+        <path id="Trazado_2809" data-name="Trazado 2809" d="M320,308.068a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,308.068Z" transform="translate(-305.5 -300.819)" fill="#333"/>
+      </g>
+      <g id="Grupo_2307" data-name="Grupo 2307" transform="translate(-17898.297 4281.317)">
+        <path id="Trazado_2810" data-name="Trazado 2810" d="M320,304.384a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,304.384Z" transform="translate(-305.5 -297.136)" fill="#333"/>
+      </g>
+      <g id="Grupo_2326" data-name="Grupo 2326" transform="translate(-17898.297 4258.237)">
+        <path id="Trazado_2811" data-name="Trazado 2811" d="M320,278.912a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,278.912Z" transform="translate(-305.5 -271.663)" fill="#333"/>
+      </g>
+      <g id="Grupo_2330" data-name="Grupo 2330" transform="translate(-17898.297 4205.682)">
+        <path id="Trazado_2812" data-name="Trazado 2812" d="M320,220.908a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,220.908Z" transform="translate(-305.5 -213.659)" fill="#333"/>
+      </g>
+      <g id="Grupo_2331" data-name="Grupo 2331" transform="translate(-17898.297 4204.569)">
+        <path id="Trazado_2813" data-name="Trazado 2813" d="M320,219.681a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,219.681Z" transform="translate(-305.5 -212.432)" fill="#333"/>
+      </g>
+      <g id="Grupo_2338" data-name="Grupo 2338" transform="translate(-17898.297 4140.335)">
+        <path id="Trazado_2814" data-name="Trazado 2814" d="M320,148.787a7.249,7.249,0,1,1-7.249-7.249A7.249,7.249,0,0,1,320,148.787Z" transform="translate(-305.5 -141.538)" fill="#333"/>
+      </g>
+      <path id="Trazado_2881" data-name="Trazado 2881" d="M45.5,26.681H199.793" transform="translate(-18010.695 4009.585)" fill="none" stroke="#989898" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Trazado_2877" data-name="Trazado 2877" d="M30,0H88.549" transform="translate(-17950.324 4248.133)" fill="none" stroke="#ff7043" stroke-linecap="square" stroke-width="2" stroke-dasharray="6 6"/>
+      <text id="puntaje_total_índice" data-name="puntaje total índice" transform="translate(-18031.52 4313.36) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="77.931" y="13">PUNTAJE TOTAL ÍNDICE</tspan></text>
+      <text id="mediana:_17_22_Desv._Est:_20_1" data-name="mediana: 17,22
+Desv. Est: 20,1" transform="translate(-17934.768 4380.604)" fill="#6d6a6a" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="9.09" y="11">MEDIANA: 17,22</tspan><tspan x="11.776" y="28">DESV. EST: 20,1</tspan></text>
+      <text id="centralizadas_7_" data-name="centralizadas (7)" transform="translate(-17959.014 4330.613)" fill="#333" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.684" y="15">CENTRALIZADAS (7)</tspan></text>
+    </g>
+  </g>
+</svg>

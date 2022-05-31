@@ -1,0 +1,1239 @@
+body {
+    font-family: 'Brown Light', 'Segoe UI', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fff !important;
+}
+
+.compensarMargen{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+button{
+    background: transparent;
+    border: none;
+}
+
+.tabResponsive {
+    display: none;
+}
+
+.isDesktop{
+    display: block !important;
+}
+
+.isResponsive{
+    display: none !important;
+}
+
+.navbar {
+    border-bottom: #d1cfcf solid 0.3px;
+}
+
+.padding-links-navbar {
+    padding-right: .3rem !important;
+}
+
+.color-orange-one {
+    color: #FF7043 !important;
+    text-decoration: underline;
+}
+
+.bg-orange-one {
+    background-color: #c63f17 !important;
+}
+
+.color-orange-two {
+    color: #ff7043 !important;
+}
+
+.container-fluid {
+    padding: 0!important;
+}
+
+.body-container {
+    width: 100%;
+    max-width: 1728px;
+    margin: 0 auto;
+}
+
+.contenedor-first-footer {
+    width: 100%;
+    background: #F6F7F6;
+    margin-bottom: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.contenedor-first-footer .contenedor {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-first-footer .contenedor .descargas {
+    width: 40%;
+    text-align: center;
+    border-right: 2px solid #FF7043;
+}
+
+.contenedor-first-footer .contenedor .descargas .imagen {
+    width: 100%;
+    padding-bottom: 1%;
+}
+.contenedor-first-footer .contenedor .descargas .imagen img {
+    width: 85px;
+    height: 80px;
+    
+}
+.contenedor-first-footer .contenedor .descargas .titulo{
+    width: 100;
+}
+
+.contenedor-first-footer .contenedor .descargas .titulo h4 {
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor-first-footer .contenedor .descargas .descripcion p {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    color: #FF7043;
+    text-decoration: underline;
+}
+
+.contenedor-first-footer .contenedor .lista {
+    width: 52%;
+}
+
+.contenedor-first-footer .contenedor .lista ul {
+    width: 90%;
+    padding-left: 8%;
+    list-style: none;
+    text-align: left;
+}
+
+.contenedor-first-footer .contenedor .lista ul li {
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 3px;
+}
+
+.contenedor-first-footer .contenedor .lista ul li .underline {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: underline;
+    color: #FF7043;
+}
+
+.contenedor-first-footer .contenedor .lista ul li span {
+    font-weight: lighter;
+    font-style: italic;
+    color: #566573;
+}
+
+.contenedor-footer {
+    background: #000;
+    width: 100%;
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+    padding-right: 1.7rem;
+    padding-left: 1.7rem;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-footer .all-logos {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-footer .all-logos .logo-izquierdo, 
+.contenedor-footer .all-logos .logo-derecho {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.contenedor-footer .all-logos .logo-centro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-footer .all-logos .logo-izquierdo .banco-interamericano-desarrollo, .contenedor-footer .all-logos .logo-izquierdo .laboratorio-gobierno, .contenedor-footer .all-logos .logo-izquierdo .ministerio {
+    width: 30%;
+}
+
+.contenedor-footer .all-logos .logo-izquierdo img {
+    width: 80%;
+    height: 90px;
+}
+
+.contenedor-footer .all-logos .logo-centro .indice-innovacion-publica {
+    text-align: center;
+    width: 60%;
+}
+
+.contenedor-footer .all-logos .logo-centro .indice-innovacion-publica img {
+    width: 75%;
+}
+
+.contenedor-footer .all-logos .logo-derecho .twitter, 
+.contenedor-footer .all-logos .logo-derecho .instagram, 
+.contenedor-footer .all-logos .logo-derecho .in, 
+.contenedor-footer .all-logos .logo-derecho .facebook {
+    width: 20%;
+    font-size: 240%;
+    color: #fff;
+    text-align: center;
+}
+
+.contenedor-footer .links {
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-footer .links ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-footer .links ul li {
+    list-style-type: none;
+}
+
+.contenedor-footer .links ul li a {
+    font-size: 14px;
+    color: #fff;
+}
+
+.contenedor-footer .links ul li a:hover {
+    text-decoration: none;
+}
+
+.contenedor-footer .links ul .decoracion a:hover {
+    text-decoration: underline !important;
+    color: #fff;
+}
+
+.linksFooter {
+    color: #fff;
+    text-decoration: underline !important;
+}
+
+.textIndexHeader {
+    text-align: center;
+    max-width: 620px;
+}
+
+.tittleText {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    max-width: 1920px;
+}
+
+.tittleTextPpal{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    max-width: 1920px;
+}
+
+.acc-width {
+    width: 100%;
+    max-width: 1920px;
+}
+
+.acc-margin-row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.acc-padding-col {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.tittleColor {
+    font-size: 50px !important;
+    color: #000;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+.textIndex {
+    font-size: 22px;
+    color: #000;
+    font-weight: 500;
+    padding: 0px 30px;
+}
+
+.tabs {
+    width: 300px;
+}
+
+.tabGeneralDimensions {
+    max-width: 100%;
+    justify-content: space-around;
+    border-bottom: 5px #C63F17 solid !important;
+}
+
+.tabHead {
+    text-align: center;
+    width: 50%;
+}
+
+.tabHeadGeneral, .tabHeadDimensions {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000 !important;
+    height: 77px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    background-color: #eaeaea;
+    margin-top: -2px;
+}
+
+.tabHeadGeneralsActive, .tabHeadDimensionsActive {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff !important;
+    height: 77px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px #c63f17 solid !important;
+    margin-top: -2px;
+}
+
+.text-descripcion {
+    font-size: 25px;
+    font-weight: 400;
+    color: #6D6A6A;
+}
+
+.title-resultado {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    padding-bottom: 10px;
+}
+
+.descripcion-resultado {
+    font-size: 18px !important;
+    color: #000;
+    margin-top: -10px;
+    width: 100% !important;
+}
+
+.borde {
+    border-left: 2px dotted #6D6A6A !important;
+    border-right: 2px dotted #6D6A6A !important;
+}
+
+.text-carrusel {
+    padding: 3%;
+}
+
+.titulo-carrusel {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.descripcion-carrusel {
+    font-size: 20px;
+    font-weight: 300 !important;
+    margin-bottom: 0 !important;
+}
+
+.title-grafico {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+}
+
+.borde-left {
+    border-left: 2px dotted #6D6A6A;
+}
+
+.borde-top {
+    border-top: 6px dotted lightgrey;
+    border-width: thick;
+    padding-top: 3% !important;
+}
+
+.borde-bottom {
+    border-bottom: none !important;
+}
+
+.sub-titulo {
+    font-size: 24px;
+    color: #6D6A6A;
+    font-weight: 250;
+    font-size: 1.70rem;
+}
+
+/* .carousel-control-next-icon {
+    background-image: url('https://ibb.co/Nmx2t37') !important;
+} */
+
+.fijo1Style {
+    width: 1500px;
+}
+
+.fijo2Style {
+    width: 100% !important;
+    /* width: 800px; */
+}
+
+.accordion2Card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.accordion2Box {
+    width: 30%;
+}
+
+.img-tamano img {
+    width: 75%;
+}
+
+.img-tamanoR img {
+    display: none;
+}
+
+.accordion2Box h1 {
+    font-size: 480%;
+    font-weight: 700;
+    color: #FF7043;
+}
+
+.accordion2Box h2 {
+    font-size: 250%;
+    font-weight: 500;
+    padding-bottom: 20px;
+    border-bottom: 5px dotted lightgrey;
+}
+
+.accordion2Box p {
+    font-size: 140%;
+    font-weight: 300;
+    line-height: 27px;
+    padding-top: 20px;
+}
+
+.descripcion-acordion {
+    border-top: 2px dotted #6D6A6A;
+}
+
+.descripcion-acordion p {
+    font-size: 120%;
+    font-weight: 200;
+    line-height: 25px;
+}
+
+.accordion2ContainerCollapse {
+    width: 100% !important;
+    margin-left: 0 !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#basic-nav-dropdown {
+    color: #FF7043 !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.box-h4 {
+    width: 102% !important;
+}
+
+.box-h4 h4 {
+    width: 100%;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+    transition: opacity .15s ease;
+    height: 20%;
+}
+
+.card-header-tabs {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+}
+
+.card {
+    border: none !important;
+}
+
+.color-grey {
+    background-color: #F7F7F7 !important;
+}
+
+.card-body {
+    padding-top: 0.67% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.row-navbar {
+    width: 100%;
+    text-decoration: none;
+}
+
+
+.accordionView {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.accordionView h1 {
+    font-size: 25px;
+    font-weight: 600 !important;
+}
+
+.box-dimensions-text {
+    width: 91% !important;
+    margin-left: 4% !important;
+}
+
+.box-subDimensions-text {
+    width: 96% !important;
+    margin-left: 90px !important;
+}
+
+.nav-link {
+    text-decoration: none !important;
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.posicion-class {
+    width: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.posicion-class a {
+    font-size: 13px !important;
+    font-weight: 600 !important;
+}
+
+.subir {
+    position: relative;
+    top: -50px !important;
+}
+
+.size-box {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.graphic-acc-3 {
+    text-align: center!important;
+    padding: 3rem!important;
+}
+
+.interpretation-card {
+    padding: 3rem !important;
+}
+
+.dimensions-cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.row-a-dimensions-top {
+    height: 50%;
+    margin-bottom: 30px;
+}
+
+.row-a-dimensions-bottom {
+    height: 50%;
+}
+
+.col-a-dimensions {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.tab-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.goBack-button {
+    color: #FF7043 !important;
+    border-color: #c63f17 !important;
+}
+
+.slide .carousel-control-prev {
+    height: 200px !important;
+}
+
+.slide .carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='darkorange' width='8' height='' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e");
+    position: relative;
+    height: 20% !important;
+    top: 6% !important;
+}
+
+.slide .carousel-control-next {
+    height: 200px !important;
+}
+
+.slide .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='darkorange' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e");
+    position: relative;
+    height: 20% !important;
+    top: 6% !important;
+}
+
+.comp-pad-general {
+    background-color: #F7F7F7;
+}
+
+.body-padding {
+    padding: 0 !important;
+    padding-top: 0.9rem !important;
+}
+
+.border-letf-right {
+    border-left: 2px dotted #6D6A6A;
+    border-right: 2px dotted #6D6A6A;
+}
+
+.graficoAcc1 {
+    text-align: center!important;
+}
+
+.graficoAcc1R {
+    display: none;
+}
+
+.contenedor-footer .links ul li{
+    font-weight: 700;
+}
+nav{
+    padding: 0 !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+.ub-logo {
+    width: 95%;
+    z-index: 1;
+    padding-left: 30px;
+}
+.ub-logo .navbar-brand{
+    width: 100%;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+}
+.ub-logo .navbar-brand .logo-nav-lab{
+    width: 16%;
+    margin-right: 2px;
+} 
+.ub-logo .navbar-brand .logo-nav-lab img{
+    width: 100% !important;
+} 
+.ub-logo .navbar-brand .logo-nav-indice{
+    width: 20%;
+}
+.ub-logo .navbar-brand .logo-nav-indice img{
+    width: 100% !important;
+} 
+.ub-logo .navbar-brand .logo-nav-lab .img-laboratorio-gobierno {
+    max-width: 115px;
+    height: 50px;
+}
+.ub-logo .navbar-brand .logo-nav-indice .img-indice-innovacion {
+    max-width: 145px;
+    height: 60px;
+}
+
+.nav-item-nav {
+    width: auto !important;
+    text-align: center;
+    color: #616261 !important;
+    line-height: 17px;
+    font-size: 14px;
+    margin-right: 55px;
+}
+.navbar-nav .dropdown-menu{
+    top: 10%;
+    left: -40px;
+    min-width: 1rem;
+}
+
+
+.btn-toggler {
+    z-index: 2;
+}
+
+.card-arrow{
+    border-bottom: none !important;
+}
+
+.card-arrow .block-analisis{
+    width: 100%;
+    height: 40px;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-arrow .btn-link{
+    text-decoration: none;
+}
+.card-arrow .btn-link:hover{
+    text-decoration: none;
+}
+
+.card-arrow .block-analisis .texto-analisis-acordion{
+    color: #FF7043;
+    text-decoration: underline;
+}
+
+.card-description-analysis .title{
+    border-bottom: 3px dotted #B3B3B3;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.card-description-analysis .title h4{
+    color: #000;
+    font-weight: 700;
+    font-size: 20px;
+}
+.card-description-analysis .descripcion{
+   padding-top: 30px;
+}
+.display-element{
+    display: none;
+}
+.carrusel-justify{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+}
+.card-interpretacion-grafico{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.card-interpretacion-grafico .grafico-interpretacion{
+    width: 100%;
+}
+.card-interpretacion-grafico .grafico-interpretacion igm{
+    width: 100%;
+}
+.card-interpretacion-grafico .interpretation-grafico-body{
+    width: 100%;
+    display: flex;
+    flex-direction: row ;
+    padding-top: 40px;
+    
+}
+.card-interpretacion-grafico .interpretation-grafico-body .title{
+    width: 33%;
+    border-right: 1px dotted #6D6A6A;
+    padding-top: 20px;
+    padding-right: 25px;
+}
+.card-interpretacion-grafico .interpretation-grafico-body .title h4{
+    font-size: 30px;
+    font-weight: 700;
+    color: #000;
+}
+.card-interpretacion-grafico .interpretation-grafico-body .description{
+    width: 90%;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.card-interpretacion-grafico .interpretation-grafico-body .description p{
+    font-size: 20px;
+    color: #000;
+}
+.card-interpretacion-grafico .interpretation-grafico-body .description .enlace{
+    padding-top: 20px;
+}
+.card-interpretacion-grafico .interpretation-grafico-body .description .enlace button{
+    background: transparent;
+    border: none;
+    font-size: 20px;
+}
+.link-informacion{
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+@media (max-width: 900px) {
+
+    .padding-card{
+        padding-left: 20px ;
+        padding-right: 20px;
+    }
+   
+    .card-arrow .block-analisis{
+        padding: 0px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        padding: 0rem 0rem;
+        font-size: 1.3rem;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.6%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 10h17M4 15h17M4 20h17'/%3e%3c/svg%3e") !important;
+    }
+    .posicion-class {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        padding-left: 2px;
+    }
+    .center-translation {
+        width: 100%;
+        display: flex;
+        align-self: center;
+        border-bottom: 1px solid #6D6A6A;
+        padding-right: 0px;
+    }
+    .navbar-nav .dropdown-menu{
+        position: absolute !important;
+        left: 2% !important;
+        top: 1% !important;
+        min-width: 1rem !important;
+    }
+    .navbar {
+        padding: 15px 0px !important;
+        flex-direction: row-reverse;
+        justify-content: flex-end !important;
+    }
+    .ub-logo {
+        width: 50%;
+        padding: 0px;
+        margin: 0px;
+    }
+    .ub-logo .navbar-brand{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .ub-logo .navbar-brand .logo-nav-indice{
+        width: 100%;
+    }
+    .img-laboratorio-gobierno {
+        display: none;
+    }
+    .ub-logo .navbar-brand .logo-nav-indice .img-indice-innovacion {
+        width: 124px;
+        height: 40px;
+    }
+    .btn-toggler {
+        width: 17%;
+        float: left;
+        border-color: transparent !important;
+    }
+    .nav-item-nav {
+        text-align: left;
+        border-bottom: 1px solid #6D6A6A;
+        width: 100% !important;
+    }
+    .row-navbar {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-around;
+    }
+    .tittleColor {
+        font-size: 33px !important;
+        padding-top: 30px;
+        margin-bottom: 0px !important;
+    }
+    .textIndex {
+        font-size: 20px;
+        padding: 0px;
+        margin-bottom: 0px !important;
+    }
+    .title-acordion {
+        font-size: 15px !important;
+    }
+    .sub-titulo {
+        font-size: 15px !important;
+    }
+    .borde-bottom {
+        padding: 0px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .svg-inline--fa.fa-w-14 {
+        width: 0.3em;
+    }
+    .descripcion-carrusel {
+        font-size: 15px;
+    }
+    .text-ancor {
+        font-size: 12px !important;
+    }
+    .size-box {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .accordion2Box {
+        text-align: left;
+        padding-bottom: 20px;
+        padding-left: 5% !important;
+    }
+    .accordion2Box h1 {
+        font-size: 120px;
+        margin-bottom: -10px;
+    }
+    .accordion2Box h2 {
+        font-size: 37px;
+        padding-bottom: 15px;
+        font-weight: bold;
+        border-bottom: none;
+        margin-bottom: -10px;
+    }
+    .accordion2Box p {
+        font-size: 108%;
+        padding-top: 15px;
+        padding-bottom: 25px;
+        line-height: 30px;
+        border-bottom: 5px dotted lightgrey;    
+    }
+    .header-card {
+        padding-left: 6% !important;
+        padding-right: 7% !important;
+    }
+    .borde-top {
+        padding-top: 6% !important;
+    }
+    .contenedor-footer{
+        padding: 30px 8px 85px 8px; 
+    }
+    .contenedor-footer .all-logos .logo-izquierdo img {
+        width: 68.4%;
+    }
+    .contenedor-footer .all-logos .logo-centro .indice-innovacion-publica img {
+        width: 80%;
+    }
+    .contenedor-footer .all-logos .logo-izquierdo {
+        padding: 0;
+        padding-bottom: 5%;
+    }
+    .contenedor-footer .all-logos .logo-izquierdo .banco-interamericano-desarrollo, 
+    .contenedor-footer .all-logos .logo-izquierdo .laboratorio-gobierno,
+     .contenedor-footer .all-logos .logo-izquierdo .ministerio {
+        text-align: center !important;
+    }
+    .contenedor-footer .all-logos .logo-centro {
+        padding: 0;
+        padding-bottom: 7%;
+    }
+    .contenedor-footer .all-logos .logo-centro .indice-innovacion-publica {
+        text-align: center;
+        width: 80%;
+    }
+    .contenedor-footer .all-logos .logo-derecho,
+    .contenedor-footer .all-logos .logo-izquierdo{
+        width: 100% !important;
+        padding: 0;
+        justify-content: center;
+    }
+    .contenedor-footer .all-logos .logo-derecho .twitter {
+        font-size: 250%;
+    }
+    .contenedor-footer .all-logos .logo-derecho .instagram {
+        font-size: 750%;
+        height: 40px;
+    }
+    .contenedor-footer .all-logos .logo-derecho .in {
+        font-size: 750%;
+        height: 40px;
+    }
+    .contenedor-footer .all-logos .logo-derecho .facebook {
+        font-size: 250%;
+        color: #fff;
+    }
+    .contenedor-footer .all-logos .logo-derecho .twitter, 
+    .contenedor-footer .all-logos .logo-derecho .instagram, 
+    .contenedor-footer .all-logos .logo-derecho .in, .contenedor-footer 
+    .all-logos .logo-derecho .facebook {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .contenedor-footer .links {
+        padding: 0;
+        margin: 0;
+        padding-top: 7%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contenedor-footer .links ul {
+        width: 90% !important;
+        padding: 0;
+        margin: 0;
+        flex-direction: column;
+    }
+    .contenedor-footer .links ul li {
+        font-size: 14px;
+        font-weight: 700 !important;
+        list-style-type: none;
+        text-align: center;
+        line-height: 18px;
+    }
+    .contenedor-footer .links ul li a{
+        text-decoration: none;
+    }
+    .contenedor-first-footer{
+        padding: 5% 2.5% 2% 2.5%;
+    }
+    .contenedor-first-footer .contenedor {
+        width: 100%;
+        padding: 0% 6%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contenedor-first-footer .contenedor .descargas {
+        width: 100%;
+        padding-bottom: 9%;
+        text-align: center;
+        border-right: none;
+        border-bottom: 5px solid #FF7043;
+    }
+    .contenedor-first-footer .contenedor .descargas .titulo{
+        width: 100;
+    }
+    
+    .contenedor-first-footer .contenedor .descargas .titulo h4 {
+        font-size: 35px;
+    }
+    .contenedor-first-footer .contenedor .lista {
+        width: 100%;
+        padding-top: 5%;
+        padding-bottom: 2%;
+    }
+    .contenedor-first-footer .contenedor .lista ul {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .contenedor-first-footer .contenedor .lista ul li {
+        width: 100%;
+        font-size: 15px;
+        font-weight: 600;
+        padding-bottom: 3%;
+    }
+    .contenedor-first-footer .contenedor .lista ul li .underline {
+        font-size: 20px;
+    }
+    .borde-accordion-3-r {
+        padding: 0px 4% 0px 4%;
+    }
+    .tabHeadGeneral, .tabHeadDimensions {
+        font-size: 12px;
+        font-weight: bold;
+        color: #000000 !important;
+        height: 77px;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        background-color: #eaeaea;
+        margin-top: -2px;
+    }
+    .tabHeadGeneralsActive, .tabHeadDimensionsActive {
+        font-size: 12px;
+        font-weight: bold;
+        color: #fff !important;
+        height: 77px;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        border-bottom: 1px #c63f17 solid !important;
+    }
+    .text-descripcion {
+        font-size: 100%;
+        font-weight: 400;
+        color: #6D6A6A;
+    }
+    .graphic-acc-3 {
+        display: none;
+    }
+    .titulo-carrusel {
+        font-size: 20px;
+        font-weight: 100;
+    }
+    .descripcion-resultado {
+        font-size: 16px !important;
+        color: #000;
+        margin-top: -10px;
+        width: 100% !important;
+    }
+    .borde {
+        border-left: none !important;
+        border-right: none !important;
+    }
+    .borde-left {
+        border-left: none;
+    }
+    .title-grafico {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+    }
+    .interpretation-card {
+        padding: 1rem !important;
+    }
+    .box-subDimensions-text {
+        width: 200% !important;
+        margin-left: none !important;
+    }
+    .box-dimensions-text {
+        width: 91% !important;
+    }
+    .slide .carousel-control-prev-icon {
+        top: -6% !important;
+    }
+    .slide .carousel-control-next-icon {
+        top: -6% !important;
+    }
+    .accordion2ContainerCollapse {
+        width: 100% !important;
+        margin-left: 0 !important;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .graficoAcc1 {
+        display: none !important;
+    }
+    .graficoAcc1R {
+        text-align: center;
+        display: block;
+        margin-top: 10%;
+    }
+    .img-tamano img {
+        display: none !important;
+    }
+    .img-tamanoR img {
+        display: block !important;
+        width: 75%;
+    }
+    .tabResponsive {
+        text-align: center!important;
+        margin-bottom: 25px;
+        display: block;
+        align-self: center;
+    }
+    .tabCardBorder {
+        border-top: 6px dotted lightgray !important;
+        border-bottom: 6px dotted lightgray !important;
+        margin-top: 10%;
+        padding-top: 15%;
+        margin-bottom: 13%;
+        padding-bottom: 6%;
+    }
+    .centerGraphicDimesions {
+        align-self: center;
+    }
+    .body-container .row-navbar .d-flex .navbar-collapse .navbar-nav .nav-item a{
+        text-align: left !important;
+        color: #616261;
+        border-bottom: 1px solid #6d6a6a;
+        font-size: 14px !important;
+    }
+    .body-container .row-navbar .d-flex .navbar-collapse .navbar-nav .posicion-class a{
+        width: 100% !important;
+    }
+    .isDesktop{
+        display: none !important;
+    }
+    .display-element{
+        display: block;
+    }
+    
+    .isResponsive{
+        display: block !important;
+    }
+    .tittleTextPpal {
+        display: flex;
+        justify-content: center;
+        text-align: left !important;
+        max-width: 1920px;
+    }
+}
+
+@media (min-width: 1260px) {
+    .nav-item-nav {
+        width: 80%;
+    }
+}
+
+@media (min-width: 1920px) {
+    .nav-item-nav {
+        width: 80%;
+    }
+}

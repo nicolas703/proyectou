@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364.715" height="535.471" viewBox="0 0 364.715 535.471">
+  <g id="Grupo_2219" data-name="Grupo 2219" transform="translate(22381.789 21631.471)">
+    <rect id="Rectángulo_779" data-name="Rectángulo 779" width="70" height="78.715" transform="translate(-22202.646 -21507.777) rotate(90)" fill="#fc9574"/>
+    <text id="Entre_25_y_50_pts." data-name="Entre 25 y 50 pts." transform="translate(-22357 -21473.992)" fill="#333" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="9.572" y="15">Entre 25 </tspan></text>
+    <text id="Entre_50_y_75_pts." data-name="Entre 50 y 75 pts." transform="translate(-22356 -21376.527)" fill="#333" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="9.043" y="15">Entre 50 </tspan></text>
+    <rect id="Rectángulo_781" data-name="Rectángulo 781" width="70" height="5.429" transform="translate(-22274.576 -21309.346) rotate(90)" fill="#fed3c6"/>
+    <rect id="Rectángulo_782" data-name="Rectángulo 782" width="70" height="38" transform="translate(-22242.004 -21407.633) rotate(90)" fill="#fdb9a3"/>
+    <text id="_6" data-name="6" transform="translate(-22232.898 -21386.523)" fill="#333" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="32">6</tspan></text>
+    <text id="_1" data-name="1" transform="translate(-22267.826 -21284.951)" fill="#333" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="32">1</tspan></text>
+    <text id="Entre_75_y_100_pts." data-name="Entre 75 y 100 pts." transform="translate(-22358 -21273.951)" fill="#333" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="10.557" y="15">Entre 75 </tspan></text>
+    <line id="Línea_559" data-name="Línea 559" x2="439.463" transform="translate(-22045.678 -21624.934) rotate(90)" fill="none" stroke="#989898" stroke-linecap="round" stroke-width="1"/>
+    <line id="Línea_560" data-name="Línea 560" x2="439.463" transform="translate(-22163.43 -21624.934) rotate(90)" fill="none" stroke="#989898" stroke-linecap="round" stroke-width="1"/>
+    <text id="_37" data-name="37" transform="translate(-22068.074 -21172.857)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="14.754" y="19">37</tspan></text>
+    <text id="_18_5" data-name="18,5" transform="translate(-22194.861 -21172.857)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="15.281" y="19">18,5</tspan></text>
+    <text id="_0" data-name="0" transform="translate(-22307.148 -21172.857)" fill="#333" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="19.931" y="19">0</tspan></text>
+    <rect id="Rectángulo_780" data-name="Rectángulo 780" width="70" height="114.001" transform="translate(-22166.004 -21605.207) rotate(90)" fill="#ff7043"/>
+    <line id="Línea_561" data-name="Línea 561" x1="445.109" transform="translate(-22281.338 -21630.58) rotate(90)" fill="none" stroke="#717171" stroke-width="4"/>
+    <text id="_18" data-name="18" transform="translate(-22159.611 -21585.17)" fill="#333" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="32">18</tspan></text>
+    <text id="Menos_de_25_pts." data-name="Menos de 25 pts." transform="translate(-22357 -21575.457)" fill="#333" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="19.84" y="15">Menos </tspan><tspan x="27.79" y="33">de 25 </tspan></text>
+    <text id="_12" data-name="12" transform="translate(-22195.254 -21484.383)" fill="#333" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="32">12</tspan></text>
+    <text id="rango_puntajes_índice" data-name="rango puntajes índice" transform="translate(-22292 -21134)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="63.273" y="13">RANGO PUNTAJES ÍNDICE</tspan></text>
+    <text id="Cantidad_de_servicios_públicos" data-name="Cantidad de servicios públicos" transform="translate(-22381.789 -21185.471) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="126.666" y="13">CANTIDAD DE SERVICIOS PÚBLICOS</tspan></text>
+  </g>
+</svg>

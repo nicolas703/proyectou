@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="308.246" height="320.09" viewBox="0 0 308.246 320.09">
+  <g id="Grupo_2430" data-name="Grupo 2430" transform="translate(-54.754 -3482.576)">
+    <g id="Grupo_2390" data-name="Grupo 2390" transform="translate(17240.043 268.73)">
+      <text id="Promedio_general:_11_3" data-name="Promedio general: 11,3" transform="translate(-17081.793 3483.146)" fill="#333" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Promedio general: </tspan><tspan y="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">11,3</tspan></text>
+      <rect id="Rectángulo_722" data-name="Rectángulo 722" width="249.618" height="37.443" transform="translate(-17154.6 3239.925)" fill="#dadada"/>
+      <rect id="Rectángulo_723" data-name="Rectángulo 723" width="83.206" height="37.443" transform="translate(-17154.6 3239.925)" fill="#33bc39"/>
+      <text id="_13_4" data-name="13,4" transform="translate(-17143.678 3262.765)" fill="#fff" font-size="14" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">13,4</tspan></text>
+      <rect id="Rectángulo_722-2" data-name="Rectángulo 722" width="249.618" height="37.443" transform="translate(-17154.6 3337.677)" fill="#dadada"/>
+      <rect id="Rectángulo_723-2" data-name="Rectángulo 723" width="59.804" height="37.443" transform="translate(-17154.6 3337.677)" fill="#33bc39"/>
+      <text id="_9_6" data-name="9,6" transform="translate(-17143.678 3360.518)" fill="#fff" font-size="14" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">9,6</tspan></text>
+      <text id="_40" data-name="40" transform="translate(-16927.158 3493.547)" fill="#33bc39" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="6.904" y="24">40</tspan></text>
+      <rect id="Rectángulo_722-3" data-name="Rectángulo 722" width="249.618" height="37.443" transform="translate(-17154.6 3435.43)" fill="#dadada"/>
+      <rect id="Rectángulo_723-3" data-name="Rectángulo 723" width="62.924" height="37.443" transform="translate(-17154.6 3435.43)" fill="#33bc39"/>
+      <text id="_10_1" data-name="10,1" transform="translate(-17143.678 3458.271)" fill="#fff" font-size="14" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">10,1</tspan></text>
+      <text id="puntaje_máx." data-name="puntaje máx." transform="translate(-16911.043 3530.936)" fill="#333" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-33.914" y="0">puntaje máx.</tspan></text>
+      <line id="Línea_490" data-name="Línea 490" y2="274.684" transform="translate(-16904.959 3218.863)" fill="none" stroke="#33bc39" stroke-width="4"/>
+      <line id="Línea_491" data-name="Línea 491" y2="275.204" transform="translate(-17087.992 3218.343)" fill="none" stroke="#777" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 8"/>
+    </g>
+    <text id="pilares" transform="translate(54.754 3562.576) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="18.028" y="13">PILARES</tspan></text>
+    <text id="centralizadas" transform="translate(54.754 3677.408) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="9.704" y="13">CENTRALIZADAS</tspan></text>
+    <text id="nuevas" transform="translate(54.754 3779.238) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="32.298" y="13">NUEVAS</tspan></text>
+  </g>
+</svg>

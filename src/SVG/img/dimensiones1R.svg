@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="313.887" height="321.162" viewBox="0 0 313.887 321.162">
+  <g id="Grupo_2388" data-name="Grupo 2388" transform="translate(-42 -1999.577)">
+    <text id="pilares" transform="translate(42 2079.577) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="18.028" y="13">PILARES</tspan></text>
+    <text id="centralizadas" transform="translate(42 2198.408) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="9.704" y="13">CENTRALIZADAS</tspan></text>
+    <text id="nuevas" transform="translate(42 2294.239) rotate(-90)" fill="#100000" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="32.298" y="13">NUEVAS</tspan></text>
+    <text id="Promedio_general:_10" data-name="Promedio general: 10" transform="translate(139.953 2269.949)" fill="#333" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Promedio general: </tspan><tspan y="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">10</tspan></text>
+    <text id="_40" data-name="40" transform="translate(300.044 2280.35)" fill="#fc9dc4" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="9.188" y="24">40</tspan></text>
+    <text id="puntaje_máx." data-name="puntaje máx." transform="translate(321.887 2317.739)" fill="#333" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-33.914" y="0">puntaje máx.</tspan></text>
+    <rect id="Rectángulo_475" data-name="Rectángulo 475" width="249.618" height="37.443" transform="translate(72.113 2026.728)" fill="#dadada"/>
+    <rect id="Rectángulo_476" data-name="Rectángulo 476" width="74.885" height="37.443" transform="translate(72.113 2026.728)" fill="#fc9dc4"/>
+    <text id="_12" data-name="12" transform="translate(83.031 2050.568)" fill="#fff" font-size="15" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">12</tspan></text>
+    <rect id="Rectángulo_475-2" data-name="Rectángulo 475" width="249.618" height="37.443" transform="translate(72.113 2124.48)" fill="#dadada"/>
+    <rect id="Rectángulo_476-2" data-name="Rectángulo 476" width="51.484" height="37.443" transform="translate(72.113 2124.48)" fill="#fc9dc4"/>
+    <text id="_8_3" data-name="8,3" transform="translate(83.031 2147.321)" fill="#fff" font-size="14" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">8,3</tspan></text>
+    <rect id="Rectángulo_475-3" data-name="Rectángulo 475" width="249.618" height="37.443" transform="translate(72.113 2223.233)" fill="#dadada"/>
+    <rect id="Rectángulo_476-3" data-name="Rectángulo 476" width="54.604" height="37.443" transform="translate(72.113 2223.233)" fill="#fc9dc4"/>
+    <text id="_8_8" data-name="8,8" transform="translate(83.031 2246.074)" fill="#fff" font-size="14" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">8,8</tspan></text>
+    <line id="Línea_261" data-name="Línea 261" y2="274.684" transform="translate(321.75 2005.666)" fill="none" stroke="#fc9dc4" stroke-width="4"/>
+    <line id="Línea_259" data-name="Línea 259" y2="275.204" transform="translate(132.719 2005.146)" fill="none" stroke="#777" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 8"/>
+  </g>
+</svg>
